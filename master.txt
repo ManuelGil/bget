@@ -1,0 +1,6 @@
+#bget master file
+#I should probably insert a link to bget's home page here.
+#alas, i am lazy.
+
+#this file is delimited thus:
+#[script name] [script location (i.e. web address] [script description] [script's local filename]
