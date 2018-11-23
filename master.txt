@@ -2,4 +2,5 @@
 #https://github.com/jahwi/bget
 
 #this file is delimited thus:
-#[script name] [script location (i.e. web address] [script description] [script's local filename]
+#[script name] [script location (i.e. web address) ] [script description] [script's local filename]
+[#] "test" "https://raw.githubusercontent.com/jahwi/bget/list/test.bat" "Bget's test file" test.bat
