@@ -3,4 +3,4 @@
 
 #this file is delimited thus:
 # [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename]
-[#], test ,https://raw.githubusercontent.com/jahwi/bget/list/test.bat, The Bget test file,test.bat
+[#], test,https://raw.githubusercontent.com/jahwi/bget/list/test.bat, The Bget test file,test.bat
