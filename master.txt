@@ -2,5 +2,5 @@
 #https://github.com/jahwi/bget
 
 #this file is delimited thus:
-# [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename]
-[#],test,https://raw.githubusercontent.com/jahwi/bget/list/test.bat,The Bget test file,test.bat
+# [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash
+[#],test,https://raw.githubusercontent.com/jahwi/bget/list/test.bat,The Bget test file,test.bat,d20e619cbcdc632a9bec34d2cd46cb75
