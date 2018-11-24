@@ -1,2 +1,2 @@
 @echo off
-echo this is the bget test file v2
+echo this is the bget test file v3
